@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Holidates CLI by alan.louette
 
 
@@ -30,3 +31,4 @@ Github
 
 
 Have fun !
+
