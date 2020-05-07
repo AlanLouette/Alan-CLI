@@ -1,6 +1,6 @@
 {
   "name": "@alan.louette/holidates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "trying to create my first npm module",
   "main": "index.js",
   "bin": {
