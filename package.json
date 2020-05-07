@@ -1,0 +1,27 @@
+{
+  "name": "@alan.louette/holidates",
+  "version": "1.0.0",
+  "description": "trying to create my first npm module",
+  "main": "index.js",
+  "bin": {
+    "holidates": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanLouette/Alan-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanLouette/Alan-CLI/issues"
+  },
+  "homepage": "https://github.com/AlanLouette/Alan-CLI#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "country-list": "^2.2.0",
+    "ora": "^4.0.4"
+  }
+}
