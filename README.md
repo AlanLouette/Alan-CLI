@@ -3,14 +3,14 @@
 
 
 ## INSTALL
-<br/>npm i @alan.louette/holidates
+npm i @alan.louette/holidates
 <br/>sudo npm link
 
 ## TRY IT !
-<br/>node . [country-name] [year(optionnal)]
+node . [country-name] [year(optionnal)]
 
 ## RESULTS..
-<br/>node . Belgium 1945
+node . Belgium 1945
 <br/>
 <br/>Holidates in **Belgium** for the year **1945**:
 <br/>
@@ -27,8 +27,7 @@
 <br/>**1945-12-25** : Christmas Day
 
 ## RESSOURCES
-<br/>Github
+Github
 <br/>
-<br/>
-<br/>**Have fun !**
+**Have fun !**
 
